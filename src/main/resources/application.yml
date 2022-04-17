@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: 'db_user'
+    password: '30b3rb12cw'
+    url: 'jdbc:mysql://localhost:3306/ticketsales'
