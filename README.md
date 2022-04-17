@@ -11,10 +11,7 @@ Make sure you have the following:
 
 
 ## 2. Clone the repository
-1. Create your access token in Gitlab: https://knasmueller.net/gitlab-authenticate-using-access-token#:~:text=GitLab%20offers%20to%20create%20personal,two%2Dfactor%20authentication%20is%20enabled
-2. Open Git BASH
-3. CD to the directory where you want to download the source code. For instance: cd /c/temp
-4. Clone the code after replacing the text YourAccessToken with your access token: git clone https://YourAccessToken@gitlab.stud.idi.ntnu.no/tdt4140-2022/landsby-1/gruppe_16/tics-poc.git
+1. abcdefg
 
 ## 3. MySQL in Docker
 To start MYSQL in Docker (first install Docker: https://www.docker.com/products/docker-desktop):
