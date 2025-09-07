@@ -1,4 +1,4 @@
-# TechStack POC Tes with Java 17
+# TechStack POC Test with Java 17
 
 ## 1. Prerequisites
 Make sure you have the following:
